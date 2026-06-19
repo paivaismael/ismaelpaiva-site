@@ -1,0 +1,13 @@
+{{ $side := .Get "side" }}
+
+<div class="research-block {{ if eq (.Get "side") "right" }}reverse{{ end }}">
+
+  <div class="research-image">
+    <img src="{{ .Get "image" }}">
+  </div>
+
+  <div class="research-text">
+    {{ .Inner | markdownify }}
+  </div>
+
+</div>

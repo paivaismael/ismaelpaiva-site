@@ -1,0 +1,40 @@
+baseURL = 'http://localhost/'
+languageCode = 'pt-br'
+title = 'Ismael Paiva'
+
+theme = 'blowfish'
+
+[params.author]
+name = "Ismael Paiva"
+headline = """
+CNPq Conhecimento Brasil Fellow
+
+Department of Physics
+
+Federal University of Pernambuco
+"""
+image = "images/profile.jpg"
+
+links = [
+  { google-scholar = "https://scholar.google.com/citations?user=2evypjQAAAAJ&hl" },
+  { orcid = "https://orcid.org/0000-0002-0416-3582" },
+  { github = "https://github.com/paivaismael" }
+]
+
+[[menu.main]]
+name = "Research"
+pageRef = "research"
+weight = 10
+
+[[menu.main]]
+name = "Publications"
+pageRef = "publications"
+weight = 20
+
+[[menu.main]]
+name = "Contact"
+pageRef = "contact"
+weight = 50
+
+[params.footer]
+showThemeAttribution = false

@@ -1,0 +1,106 @@
+{{ define "main" }}
+
+<header class="mt-5 max-w-prose mb-20">
+  <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
+    {{ .Title }}
+  </h1>
+</header>
+
+{{ range sort .Pages ".Params.order" "desc" }}
+
+<div style="margin-bottom:2rem;">
+
+<div class="pub-title">
+  {{ .Title }}
+</div>
+
+<div class="pub-authors">
+   <p>
+      {{ $authors := .Params.authors }}
+      {{ $n := len $authors }}
+
+      {{ if eq $n 2}}
+         {{ delimit $authors " and " }}
+      {{ else }}
+         {{ delimit $authors ", " ", and " }}
+      {{ end }}
+   </p>
+</div>
+
+<div class="pub-journal">
+   <p>
+      {{ .Params.journal }}
+      ({{ .Params.year }})
+   </p>
+</div>
+
+{{ if .Params.isPublished }}
+  <a class="doi-button"
+     href="https://doi.org/{{ .Params.doi }}"
+     target="_blank">
+     DOI
+  </a>
+{{ end }}
+
+{{ with .Params.arxiv }}
+  <a class="arxiv-button"
+     href="https://doi.org/10.48550/arXiv.{{ . }}"
+     target="_blank">
+     arXiv
+  </a>
+
+  <a class="scirate-button"
+     href="https://scirate.com/arxiv/{{ . }}"
+     target="_blank">
+     SciRate
+  </a>
+{{ end }}
+
+{{ with .Params.doi }}
+  {{ $bib := printf "/bibtex/%s.bib" . }}
+
+  <a class="bibtex-button"
+     href="#"
+     onclick="showBibtex('{{ $bib }}'); return false;">
+     BibTeX
+  </a>
+{{ end }}
+
+<script>
+function showBibtex(url) {
+  fetch(url)
+    .then(response => response.text())
+    .then(text => {
+      document.getElementById('bibtex-content').textContent = text;
+      document.getElementById('bibtex-modal').style.display = 'block';
+    });
+}
+
+function closeBibtex() {
+  document.getElementById('bibtex-modal').style.display = 'none';
+}
+
+function copyBibtex() {
+  navigator.clipboard.writeText(
+    document.getElementById('bibtex-content').textContent
+  );
+}
+</script>
+
+<div id="bibtex-modal" onclick="closeBibtex()">
+  <div id="bibtex-box" onclick="event.stopPropagation()">
+    <pre id="bibtex-content"></pre>
+
+    <div id="bibtex-buttons">
+        <button id="bibtex-copy" onclick="copyBibtex()">Copy</button>
+        <button id="bibtex-close" onclick="closeBibtex()">Close</button>
+    </div>
+
+  </div>
+</div>
+
+</div>
+
+{{ end }}
+
+{{ end }}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Researches on Ismael Paiva</title>
+    <link>http://localhost:1313/research/</link>
+    <description>Recent content in Researches on Ismael Paiva</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>© 2026 Ismael Paiva</copyright>
+    <atom:link href="http://localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/research/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/research/research/</guid>
+      <description>&lt;p&gt;-&amp;ndash;&lt;/p&gt;&#xA;&lt;p&gt;title: &amp;ldquo;Research&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;-&amp;ndash;&lt;/p&gt;&#xA;&lt;p&gt;## Operational time in quantum theory&lt;/p&gt;&#xA;&lt;p&gt;![OperationalTime](/images/operationaltime.png)&lt;/p&gt;&#xA;&lt;p&gt;Time, or spacetime in a broader sense, is a concept that lies at the heart of many fundamental aspects of physics. The operational view that time corresponds to what is measured by physical clocks together with the understanding that physical systems are, ultimately, quantum leads to the use of quantum clocks as frames of reference.&lt;/p&gt;&#xA;&lt;p&gt;Investigating measurements of energy [ [Quantum 2022](&lt;a href=&#34;https://doi.org/10.22331/q-2022-04-07-683&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://doi.org/10.22331/q-2022-04-07-683&lt;/a&gt;) ] and accelerating clocks [[Commun. Phys. 2022](&lt;a href=&#34;http://dx.doi.org/10.1038/s42005-022-01081-0%29]&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;http://dx.doi.org/10.1038/s42005-022-01081-0)]&lt;/a&gt; within clock frames of reference, we have shown that the effective dynamics in these contexts are generally governed by non-Hermitian Hamiltonians.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
