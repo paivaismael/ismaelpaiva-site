@@ -3,341 +3,341 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/students/</loc>
+    <loc>http://localhost/students/</loc>
     <xhtml:link
       rel="alternate"
       hreflang="pt-BR"
-      href="http://localhost:1313/pt/students/"
+      href="http://localhost/pt/students/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/students/"
+      href="http://localhost/students/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/teaching/</loc>
+    <loc>http://localhost/teaching/</loc>
     <xhtml:link
       rel="alternate"
       hreflang="pt-BR"
-      href="http://localhost:1313/pt/teaching/"
+      href="http://localhost/pt/teaching/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/teaching/"
+      href="http://localhost/teaching/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/publications/10.1007_s11856-020-1970-7/</loc>
+    <loc>http://localhost/publications/10.1007_s11856-020-1970-7/</loc>
     <xhtml:link
       rel="alternate"
       hreflang="pt-BR"
-      href="http://localhost:1313/pt/publications/10.1007_s11856-020-1970-7/"
+      href="http://localhost/pt/publications/10.1007_s11856-020-1970-7/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/publications/10.1007_s11856-020-1970-7/"
+      href="http://localhost/publications/10.1007_s11856-020-1970-7/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/publications/10.1088_1367-2630_acd4dd/</loc>
+    <loc>http://localhost/publications/10.1088_1367-2630_acd4dd/</loc>
     <xhtml:link
       rel="alternate"
       hreflang="pt-BR"
-      href="http://localhost:1313/pt/publications/10.1088_1367-2630_acd4dd/"
+      href="http://localhost/pt/publications/10.1088_1367-2630_acd4dd/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/publications/10.1088_1367-2630_acd4dd/"
+      href="http://localhost/publications/10.1088_1367-2630_acd4dd/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/publications/10.1103_physreva.107.032213/</loc>
+    <loc>http://localhost/publications/10.1103_physreva.107.032213/</loc>
     <xhtml:link
       rel="alternate"
       hreflang="pt-BR"
-      href="http://localhost:1313/pt/publications/10.1103_physreva.107.032213/"
+      href="http://localhost/pt/publications/10.1103_physreva.107.032213/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/publications/10.1103_physreva.107.032213/"
+      href="http://localhost/publications/10.1103_physreva.107.032213/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>http://localhost/contact/</loc>
     <xhtml:link
       rel="alternate"
       hreflang="pt-BR"
-      href="http://localhost:1313/pt/contact/"
+      href="http://localhost/pt/contact/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/contact/"
+      href="http://localhost/contact/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/publications/10.1063_1.5052010/</loc>
+    <loc>http://localhost/publications/10.1063_1.5052010/</loc>
     <xhtml:link
       rel="alternate"
       hreflang="pt-BR"
-      href="http://localhost:1313/pt/publications/10.1063_1.5052010/"
+      href="http://localhost/pt/publications/10.1063_1.5052010/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/publications/10.1063_1.5052010/"
+      href="http://localhost/publications/10.1063_1.5052010/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/publications/10.1103_physreva.105.042207/</loc>
+    <loc>http://localhost/publications/10.1103_physreva.105.042207/</loc>
     <xhtml:link
       rel="alternate"
       hreflang="pt-BR"
-      href="http://localhost:1313/pt/publications/10.1103_physreva.105.042207/"
+      href="http://localhost/pt/publications/10.1103_physreva.105.042207/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/publications/10.1103_physreva.105.042207/"
+      href="http://localhost/publications/10.1103_physreva.105.042207/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/publications/10.22331_q-2022-04-07-683/</loc>
+    <loc>http://localhost/publications/10.22331_q-2022-04-07-683/</loc>
     <xhtml:link
       rel="alternate"
       hreflang="pt-BR"
-      href="http://localhost:1313/pt/publications/10.22331_q-2022-04-07-683/"
+      href="http://localhost/pt/publications/10.22331_q-2022-04-07-683/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/publications/10.22331_q-2022-04-07-683/"
+      href="http://localhost/publications/10.22331_q-2022-04-07-683/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/publications/10.1002_qute.202100121/</loc>
+    <loc>http://localhost/publications/10.1002_qute.202100121/</loc>
     <xhtml:link
       rel="alternate"
       hreflang="pt-BR"
-      href="http://localhost:1313/pt/publications/10.1002_qute.202100121/"
+      href="http://localhost/pt/publications/10.1002_qute.202100121/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/publications/10.1002_qute.202100121/"
+      href="http://localhost/publications/10.1002_qute.202100121/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost/</loc>
     <xhtml:link
       rel="alternate"
       hreflang="pt-BR"
-      href="http://localhost:1313/pt/"
+      href="http://localhost/pt/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/"
+      href="http://localhost/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/publications/10.1103_physreva.105.032413/</loc>
+    <loc>http://localhost/publications/10.1103_physreva.105.032413/</loc>
     <xhtml:link
       rel="alternate"
       hreflang="pt-BR"
-      href="http://localhost:1313/pt/publications/10.1103_physreva.105.032413/"
+      href="http://localhost/pt/publications/10.1103_physreva.105.032413/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/publications/10.1103_physreva.105.032413/"
+      href="http://localhost/publications/10.1103_physreva.105.032413/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/publications/10.1103_physreva.101.042111/</loc>
+    <loc>http://localhost/publications/10.1103_physreva.101.042111/</loc>
     <xhtml:link
       rel="alternate"
       hreflang="pt-BR"
-      href="http://localhost:1313/pt/publications/10.1103_physreva.101.042111/"
+      href="http://localhost/pt/publications/10.1103_physreva.101.042111/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/publications/10.1103_physreva.101.042111/"
+      href="http://localhost/publications/10.1103_physreva.101.042111/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/publications/10.48550_arxiv.2603.25485/</loc>
+    <loc>http://localhost/publications/10.48550_arxiv.2603.25485/</loc>
     <xhtml:link
       rel="alternate"
       hreflang="pt-BR"
-      href="http://localhost:1313/pt/publications/10.48550_arxiv.2603.25485/"
+      href="http://localhost/pt/publications/10.48550_arxiv.2603.25485/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/publications/10.48550_arxiv.2603.25485/"
+      href="http://localhost/publications/10.48550_arxiv.2603.25485/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/publications/10.1038_s42005-022-01081-0/</loc>
+    <loc>http://localhost/publications/10.1038_s42005-022-01081-0/</loc>
     <xhtml:link
       rel="alternate"
       hreflang="pt-BR"
-      href="http://localhost:1313/pt/publications/10.1038_s42005-022-01081-0/"
+      href="http://localhost/pt/publications/10.1038_s42005-022-01081-0/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/publications/10.1038_s42005-022-01081-0/"
+      href="http://localhost/publications/10.1038_s42005-022-01081-0/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/publications/10.1103_physreva.109.032205/</loc>
+    <loc>http://localhost/publications/10.1103_physreva.109.032205/</loc>
     <xhtml:link
       rel="alternate"
       hreflang="pt-BR"
-      href="http://localhost:1313/pt/publications/10.1103_physreva.109.032205/"
+      href="http://localhost/pt/publications/10.1103_physreva.109.032205/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/publications/10.1103_physreva.109.032205/"
+      href="http://localhost/publications/10.1103_physreva.109.032205/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/publications/10.1063_5.0007301/</loc>
+    <loc>http://localhost/publications/10.1063_5.0007301/</loc>
     <xhtml:link
       rel="alternate"
       hreflang="pt-BR"
-      href="http://localhost:1313/pt/publications/10.1063_5.0007301/"
+      href="http://localhost/pt/publications/10.1063_5.0007301/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/publications/10.1063_5.0007301/"
+      href="http://localhost/publications/10.1063_5.0007301/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/publications/10.1007_s00020-019-2506-6/</loc>
+    <loc>http://localhost/publications/10.1007_s00020-019-2506-6/</loc>
     <xhtml:link
       rel="alternate"
       hreflang="pt-BR"
-      href="http://localhost:1313/pt/publications/10.1007_s00020-019-2506-6/"
+      href="http://localhost/pt/publications/10.1007_s00020-019-2506-6/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/publications/10.1007_s00020-019-2506-6/"
+      href="http://localhost/publications/10.1007_s00020-019-2506-6/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/publications/</loc>
+    <loc>http://localhost/publications/</loc>
     <xhtml:link
       rel="alternate"
       hreflang="pt-BR"
-      href="http://localhost:1313/pt/publications/"
+      href="http://localhost/pt/publications/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/publications/"
+      href="http://localhost/publications/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/publications/10.1088_2058-9565_ad124c/</loc>
+    <loc>http://localhost/publications/10.1088_2058-9565_ad124c/</loc>
     <xhtml:link
       rel="alternate"
       hreflang="pt-BR"
-      href="http://localhost:1313/pt/publications/10.1088_2058-9565_ad124c/"
+      href="http://localhost/pt/publications/10.1088_2058-9565_ad124c/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/publications/10.1088_2058-9565_ad124c/"
+      href="http://localhost/publications/10.1088_2058-9565_ad124c/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/publications/10.1051_fopen_2021005/</loc>
+    <loc>http://localhost/publications/10.1051_fopen_2021005/</loc>
     <xhtml:link
       rel="alternate"
       hreflang="pt-BR"
-      href="http://localhost:1313/pt/publications/10.1051_fopen_2021005/"
+      href="http://localhost/pt/publications/10.1051_fopen_2021005/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/publications/10.1051_fopen_2021005/"
+      href="http://localhost/publications/10.1051_fopen_2021005/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/publications/10.1038_s42005-024-01843-y/</loc>
+    <loc>http://localhost/publications/10.1038_s42005-024-01843-y/</loc>
     <xhtml:link
       rel="alternate"
       hreflang="pt-BR"
-      href="http://localhost:1313/pt/publications/10.1038_s42005-024-01843-y/"
+      href="http://localhost/pt/publications/10.1038_s42005-024-01843-y/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/publications/10.1038_s42005-024-01843-y/"
+      href="http://localhost/publications/10.1038_s42005-024-01843-y/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/research/</loc>
+    <loc>http://localhost/research/</loc>
     <xhtml:link
       rel="alternate"
       hreflang="pt-BR"
-      href="http://localhost:1313/pt/research/"
+      href="http://localhost/pt/research/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/research/"
+      href="http://localhost/research/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/publications/10.1088_1751-8121_ad0589/</loc>
+    <loc>http://localhost/publications/10.1088_1751-8121_ad0589/</loc>
     <xhtml:link
       rel="alternate"
       hreflang="pt-BR"
-      href="http://localhost:1313/pt/publications/10.1088_1751-8121_ad0589/"
+      href="http://localhost/pt/publications/10.1088_1751-8121_ad0589/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/publications/10.1088_1751-8121_ad0589/"
+      href="http://localhost/publications/10.1088_1751-8121_ad0589/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/publications/10.1103_physreva.100.040101/</loc>
+    <loc>http://localhost/publications/10.1103_physreva.100.040101/</loc>
     <xhtml:link
       rel="alternate"
       hreflang="pt-BR"
-      href="http://localhost:1313/pt/publications/10.1103_physreva.100.040101/"
+      href="http://localhost/pt/publications/10.1103_physreva.100.040101/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/publications/10.1103_physreva.100.040101/"
+      href="http://localhost/publications/10.1103_physreva.100.040101/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/publications/10.1103_physreva.109.062207/</loc>
+    <loc>http://localhost/publications/10.1103_physreva.109.062207/</loc>
     <xhtml:link
       rel="alternate"
       hreflang="pt-BR"
-      href="http://localhost:1313/pt/publications/10.1103_physreva.109.062207/"
+      href="http://localhost/pt/publications/10.1103_physreva.109.062207/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/publications/10.1103_physreva.109.062207/"
+      href="http://localhost/publications/10.1103_physreva.109.062207/"
     />
   </url>
 </urlset>

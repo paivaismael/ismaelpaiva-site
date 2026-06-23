@@ -2,249 +2,249 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Início on Ismael Paiva</title>
-    <link>http://localhost:1313/pt/</link>
+    <link>http://localhost/pt/</link>
     <description>Recent content in Início on Ismael Paiva</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <copyright>© 2026 Ismael Paiva</copyright>
-    <atom:link href="http://localhost:1313/pt/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost/pt/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>http://localhost:1313/pt/students/</link>
+      <link>http://localhost/pt/students/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt/students/</guid>
+      <guid>http://localhost/pt/students/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/pt/teaching/</link>
+      <link>http://localhost/pt/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt/teaching/</guid>
+      <guid>http://localhost/pt/teaching/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>A general setting for functions of Fueter variables: differentiability, rational functions, Fock module, and related topics</title>
-      <link>http://localhost:1313/pt/publications/10.1007_s11856-020-1970-7/</link>
+      <link>http://localhost/pt/publications/10.1007_s11856-020-1970-7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt/publications/10.1007_s11856-020-1970-7/</guid>
+      <guid>http://localhost/pt/publications/10.1007_s11856-020-1970-7/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Aharonov-Bohm effect with an effective complex-valued vector potential</title>
-      <link>http://localhost:1313/pt/publications/10.1088_1367-2630_acd4dd/</link>
+      <link>http://localhost/pt/publications/10.1088_1367-2630_acd4dd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt/publications/10.1088_1367-2630_acd4dd/</guid>
+      <guid>http://localhost/pt/publications/10.1088_1367-2630_acd4dd/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Coherence and realism in the Aharonov-Bohm effect</title>
-      <link>http://localhost:1313/pt/publications/10.1103_physreva.107.032213/</link>
+      <link>http://localhost/pt/publications/10.1103_physreva.107.032213/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt/publications/10.1103_physreva.107.032213/</guid>
+      <guid>http://localhost/pt/publications/10.1103_physreva.107.032213/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Contato</title>
-      <link>http://localhost:1313/pt/contact/</link>
+      <link>http://localhost/pt/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt/contact/</guid>
+      <guid>http://localhost/pt/contact/</guid>
       <description>&lt;p&gt;Estou disponível para discutir colaborações em pesquisa e oportunidades para estudantes interessados em física quântica.&lt;/p&gt;&#xA;&lt;div class=&#34;rounded-2xl border border-neutral-200 dark:border-neutral-800 p-6 shadow-sm my-6&#34;&gt;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;    &lt;p class=&#34;text-sm text-neutral-600 dark:text-neutral-400 mb-4&#34;&gt;&#xD;&#xA;      Email:&#xD;&#xA;    &lt;/p&gt;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &lt;div class=&#34;flex items-center gap-2&#34;&gt;&#xD;&#xA;    &lt;span id=&#34;email-0&#34;&gt;&lt;/span&gt;&#xD;&#xA;&#xD;&#xA;    &lt;noscript&gt;&#xD;&#xA;      &lt;span class=&#34;text-sm text-neutral-500&#34;&gt;&#xD;&#xA;        Enable JavaScript to view email&#xD;&#xA;      &lt;/span&gt;&#xD;&#xA;    &lt;/noscript&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&lt;script&gt;&#xD;&#xA;(function () {&#xD;&#xA;  const user = &#34;ismaellucas.paiva&#34;;&#xD;&#xA;  const domain = &#34;ufpe.br&#34;;&#xD;&#xA;  const email = user + &#34;@&#34; + domain;&#xD;&#xA;&#xD;&#xA;  const el = document.getElementById(&#34;email-0&#34;);&#xD;&#xA;  if (el) {&#xD;&#xA;    el.innerHTML =&#xD;&#xA;      `&lt;a class=&#34;text-primary-600 hover:underline&#34;&#xD;&#xA;          href=&#34;mailto:${email}&#34;&gt; ${email} &lt;/a&gt;`;&#xD;&#xA;  }&#xD;&#xA;})();&#xD;&#xA;&lt;/script&gt;&#xA;&lt;p&gt;Sala B324, Departamento de Física&lt;br&gt;&#xA;Universidade Federal de Pernambuco&lt;br&gt;&#xA;Recife, Brasil&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Distribution spaces and a new construction of stochastic processes associated with the Grassmann algebra</title>
-      <link>http://localhost:1313/pt/publications/10.1063_1.5052010/</link>
+      <link>http://localhost/pt/publications/10.1063_1.5052010/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt/publications/10.1063_1.5052010/</guid>
+      <guid>http://localhost/pt/publications/10.1063_1.5052010/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Dynamical nonlocality in quantum time via modular operators</title>
-      <link>http://localhost:1313/pt/publications/10.1103_physreva.105.042207/</link>
+      <link>http://localhost/pt/publications/10.1103_physreva.105.042207/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt/publications/10.1103_physreva.105.042207/</guid>
+      <guid>http://localhost/pt/publications/10.1103_physreva.105.042207/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Flow of time during energy measurements and the resulting time-energy uncertainty relations</title>
-      <link>http://localhost:1313/pt/publications/10.22331_q-2022-04-07-683/</link>
+      <link>http://localhost/pt/publications/10.22331_q-2022-04-07-683/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt/publications/10.22331_q-2022-04-07-683/</guid>
+      <guid>http://localhost/pt/publications/10.22331_q-2022-04-07-683/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Geometric phases and the Sagnac effect: Foundational aspects and sensing applications</title>
-      <link>http://localhost:1313/pt/publications/10.1002_qute.202100121/</link>
+      <link>http://localhost/pt/publications/10.1002_qute.202100121/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt/publications/10.1002_qute.202100121/</guid>
+      <guid>http://localhost/pt/publications/10.1002_qute.202100121/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Induced on-demand state revival in coined quantum walks on infinite 𝑑-dimensional lattices</title>
-      <link>http://localhost:1313/pt/publications/10.1103_physreva.105.032413/</link>
+      <link>http://localhost/pt/publications/10.1103_physreva.105.032413/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt/publications/10.1103_physreva.105.032413/</guid>
+      <guid>http://localhost/pt/publications/10.1103_physreva.105.032413/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Magnetic forces in the absence of a classical magnetic field</title>
-      <link>http://localhost:1313/pt/publications/10.1103_physreva.101.042111/</link>
+      <link>http://localhost/pt/publications/10.1103_physreva.101.042111/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt/publications/10.1103_physreva.101.042111/</guid>
+      <guid>http://localhost/pt/publications/10.1103_physreva.101.042111/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Networks of quantum reference frames and the nature of conserved quantities</title>
-      <link>http://localhost:1313/pt/publications/10.48550_arxiv.2603.25485/</link>
+      <link>http://localhost/pt/publications/10.48550_arxiv.2603.25485/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt/publications/10.48550_arxiv.2603.25485/</guid>
+      <guid>http://localhost/pt/publications/10.48550_arxiv.2603.25485/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Non-inertial quantum clock frames lead to non-Hermitian dynamics</title>
-      <link>http://localhost:1313/pt/publications/10.1038_s42005-022-01081-0/</link>
+      <link>http://localhost/pt/publications/10.1038_s42005-022-01081-0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt/publications/10.1038_s42005-022-01081-0/</guid>
+      <guid>http://localhost/pt/publications/10.1038_s42005-022-01081-0/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Nonrelativistic spatiotemporal quantum reference frames</title>
-      <link>http://localhost:1313/pt/publications/10.1103_physreva.109.032205/</link>
+      <link>http://localhost/pt/publications/10.1103_physreva.109.032205/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt/publications/10.1103_physreva.109.032205/</guid>
+      <guid>http://localhost/pt/publications/10.1103_physreva.109.032205/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>On the extension of positive definite kernels to topological algebras</title>
-      <link>http://localhost:1313/pt/publications/10.1063_5.0007301/</link>
+      <link>http://localhost/pt/publications/10.1063_5.0007301/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt/publications/10.1063_5.0007301/</guid>
+      <guid>http://localhost/pt/publications/10.1063_5.0007301/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Pesquisa</title>
-      <link>http://localhost:1313/pt/research/</link>
+      <link>http://localhost/pt/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt/research/</guid>
-      <description>&lt;div class=&#34;research-block &#34;&gt;&#xD;&#xA;&#xD;&#xA;  &lt;div class=&#34;research-image&#34;&gt;&#xD;&#xA;    &lt;img src=&#34;http://localhost:1313/images/operational-time.png&#34;&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&#xD;&#xA;  &lt;div class=&#34;research-text&#34;&gt;&#xD;&#xA;    &#xD;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Tempo operacional na teoria quântica&#xD;&#xA;    &lt;div id=&#34;tempo-operacional-na-teoria-quântica&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#tempo-operacional-na-teoria-qu%c3%a2ntica&#34; aria-label=&#34;Âncora&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Tempo, ou espaço-tempo num sentido mais amplo, é um conceito primordial em muitos aspectos fundamentais da física. A perspectiva operacional de que o tempo corresponde ao que é medido por relógios físicos juntamente com o entendimento de que os sistemas físicos são, em última instância, quânticos levam à introdução de relógios quânticos como sistemas de referência.&lt;/p&gt;</description>
+      <guid>http://localhost/pt/research/</guid>
+      <description>&lt;div class=&#34;research-block &#34;&gt;&#xD;&#xA;&#xD;&#xA;  &lt;div class=&#34;research-image&#34;&gt;&#xD;&#xA;    &lt;img src=&#34;http://localhost/images/operational-time.png&#34;&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&#xD;&#xA;  &lt;div class=&#34;research-text&#34;&gt;&#xD;&#xA;    &#xD;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Tempo operacional na teoria quântica&#xD;&#xA;    &lt;div id=&#34;tempo-operacional-na-teoria-quântica&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#tempo-operacional-na-teoria-qu%c3%a2ntica&#34; aria-label=&#34;Âncora&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Tempo, ou espaço-tempo num sentido mais amplo, é um conceito primordial em muitos aspectos fundamentais da física. A perspectiva operacional de que o tempo corresponde ao que é medido por relógios físicos juntamente com o entendimento de que os sistemas físicos são, em última instância, quânticos levam à introdução de relógios quânticos como sistemas de referência.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Positivity, rational Schur functions, Blaschke factors, and other related results in the Grassmann algebra</title>
-      <link>http://localhost:1313/pt/publications/10.1007_s00020-019-2506-6/</link>
+      <link>http://localhost/pt/publications/10.1007_s00020-019-2506-6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt/publications/10.1007_s00020-019-2506-6/</guid>
+      <guid>http://localhost/pt/publications/10.1007_s00020-019-2506-6/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Quantum circuits for measuring weak values, Kirkwood–Dirac quasiprobability distributions, and state spectra</title>
-      <link>http://localhost:1313/pt/publications/10.1088_2058-9565_ad124c/</link>
+      <link>http://localhost/pt/publications/10.1088_2058-9565_ad124c/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt/publications/10.1088_2058-9565_ad124c/</guid>
+      <guid>http://localhost/pt/publications/10.1088_2058-9565_ad124c/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Quantum logical entropy: fundamentals and general properties</title>
-      <link>http://localhost:1313/pt/publications/10.1051_fopen_2021005/</link>
+      <link>http://localhost/pt/publications/10.1051_fopen_2021005/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt/publications/10.1051_fopen_2021005/</guid>
+      <guid>http://localhost/pt/publications/10.1051_fopen_2021005/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Quantum switch instabilities with an open control</title>
-      <link>http://localhost:1313/pt/publications/10.1038_s42005-024-01843-y/</link>
+      <link>http://localhost/pt/publications/10.1038_s42005-024-01843-y/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt/publications/10.1038_s42005-024-01843-y/</guid>
+      <guid>http://localhost/pt/publications/10.1038_s42005-024-01843-y/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Time-symmetry and topology of the Aharonov-Bohm effect</title>
-      <link>http://localhost:1313/pt/publications/10.1088_1751-8121_ad0589/</link>
+      <link>http://localhost/pt/publications/10.1088_1751-8121_ad0589/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt/publications/10.1088_1751-8121_ad0589/</guid>
+      <guid>http://localhost/pt/publications/10.1088_1751-8121_ad0589/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Topological bound states for quantum charges</title>
-      <link>http://localhost:1313/pt/publications/10.1103_physreva.100.040101/</link>
+      <link>http://localhost/pt/publications/10.1103_physreva.100.040101/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt/publications/10.1103_physreva.100.040101/</guid>
+      <guid>http://localhost/pt/publications/10.1103_physreva.100.040101/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Unveiling quantum complementarity tradeoffs in relativistic scenarios</title>
-      <link>http://localhost:1313/pt/publications/10.1103_physreva.109.062207/</link>
+      <link>http://localhost/pt/publications/10.1103_physreva.109.062207/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt/publications/10.1103_physreva.109.062207/</guid>
+      <guid>http://localhost/pt/publications/10.1103_physreva.109.062207/</guid>
       <description></description>
       
     </item>
