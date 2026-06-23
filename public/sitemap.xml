@@ -1,83 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
-  <url>
-    <loc>http://localhost:1313/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/students/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/teaching/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/publications/10.1007_s11856-020-1970-7/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/publications/10.1088_1367-2630_acd4dd/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/publications/10.1103_physreva.107.032213/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/contact/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/publications/10.1063_1.5052010/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/publications/10.1103_physreva.105.042207/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/publications/10.22331_q-2022-04-07-683/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/publications/10.1002_qute.202100121/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/publications/10.1103_physreva.105.032413/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/publications/10.1103_physreva.101.042111/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/publications/10.48550_arxiv.2603.25485/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/publications/10.1038_s42005-022-01081-0/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/publications/10.1103_physreva.109.032205/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/publications/10.1063_5.0007301/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/publications/10.1007_s00020-019-2506-6/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/publications/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/publications/10.1088_2058-9565_ad124c/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/publications/10.1051_fopen_2021005/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/publications/10.1038_s42005-024-01843-y/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/research/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/publications/10.1088_1751-8121_ad0589/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/publications/10.1103_physreva.100.040101/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/publications/10.1103_physreva.109.062207/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+		<sitemap>
+			<loc>http://localhost:1313/en/sitemap.xml</loc>
+			
+		</sitemap>
+	
+		<sitemap>
+			<loc>http://localhost:1313/pt/sitemap.xml</loc>
+			
+		</sitemap>
+	
+</sitemapindex>

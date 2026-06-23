@@ -1,0 +1,39 @@
+<div class="rounded-2xl border border-neutral-200 dark:border-neutral-800 p-6 shadow-sm my-6">
+
+  {{ with .Get "title" }}
+    <h2 class="text-lg font-semibold mb-4">{{ . }}</h2>
+  {{ end }}
+
+  {{ with .Get "text" }}
+    <p class="text-sm text-neutral-600 dark:text-neutral-400 mb-4">
+      {{ . }}
+    </p>
+  {{ end }}
+
+  <!-- Email -->
+  <div class="flex items-center gap-2">
+    <span id="email-{{ .Ordinal }}"></span>
+
+    <noscript>
+      <span class="text-sm text-neutral-500">
+        Enable JavaScript to view email
+      </span>
+    </noscript>
+  </div>
+
+</div>
+
+<script>
+(function () {
+  const user = "{{ .Get "user" }}";
+  const domain = "{{ .Get "domain" }}";
+  const email = user + "@" + domain;
+
+  const el = document.getElementById("email-{{ .Ordinal }}");
+  if (el) {
+    el.innerHTML =
+      `<a class="text-primary-600 hover:underline"
+          href="mailto:${email}"> ${email} </a>`;
+  }
+})();
+</script>

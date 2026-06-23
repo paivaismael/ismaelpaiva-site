@@ -1,10 +1,14 @@
 baseURL = 'http://localhost/'
-languageCode = 'pt-br'
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+
 title = 'Ismael Paiva'
 
 theme = 'blowfish'
 
-[params.author]
+[languages.en.params]
+
+[languages.en.params.author]
 name = "Ismael Paiva"
 headline = """
 CNPq Conhecimento Brasil Fellow
@@ -21,20 +25,79 @@ links = [
   { github = "https://github.com/paivaismael" }
 ]
 
-[[menu.main]]
+[languages.pt.params]
+
+[languages.pt.params.author]
+name = "Ismael Paiva"
+headline = """
+Pesquisador do Programa Conhecimento Brasil (CNPq)
+
+Departamente de Física
+
+Universidade Federal de Pernambuco
+"""
+image = "images/profile.jpg"
+
+links = [
+  { google-scholar = "https://scholar.google.com/citations?user=2evypjQAAAAJ&hl" },
+  { orcid = "https://orcid.org/0000-0002-0416-3582" },
+  { github = "https://github.com/paivaismael" }
+]
+
+
+[languages]
+
+[languages.en]
+label = "English"
+locale = "en"
+weight = 1
+
+[languages.pt]
+label = "Português"
+locale = "pt-BR"
+weight = 2
+
+
+[languages.en.menu]
+
+[[languages.en.menu.main]]
 name = "Research"
 pageRef = "research"
 weight = 10
 
-[[menu.main]]
+[[languages.en.menu.main]]
 name = "Publications"
 pageRef = "publications"
 weight = 20
 
-[[menu.main]]
+[[languages.en.menu.main]]
 name = "Contact"
 pageRef = "contact"
 weight = 50
+
+
+[languages.pt.menu]
+
+[[languages.pt.menu.main]]
+name = "Pesquisa"
+pageRef = "research"
+weight = 10
+
+[[languages.pt.menu.main]]
+name = "Publicações"
+pageRef = "publications"
+weight = 20
+
+[[languages.pt.menu.main]]
+name = "Contato"
+pageRef = "contact"
+weight = 50
+
+[params]
+  enableLanguageSwitcher = true
+
+[params.article]
+showPagination = false
 
 [params.footer]
 showThemeAttribution = false

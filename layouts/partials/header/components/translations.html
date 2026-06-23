@@ -1,0 +1,17 @@
+{{ $page := .Page }}
+
+<div class="language-switch flex gap-2 items-center">
+
+  {{ with index $page.AllTranslations 0 }}
+    <a href="{{ .RelPermalink }}" title="English">🇬🇧</a>
+  {{ else }}
+    <a href="/en/" title="English">🇬🇧</a>
+  {{ end }}
+
+  {{ with index $page.AllTranslations 1 }}
+    <a href="{{ .RelPermalink }}" title="Português">🇧🇷</a>
+  {{ else }}
+    <a href="/pt/" title="Português">🇧🇷</a>
+  {{ end }}
+
+</div>
