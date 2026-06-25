@@ -1,4 +1,8 @@
 baseURL = 'https://paivaismael.github.io/ismaelpaiva-site'
+
+relativeURLs = true
+canonifyURLs = true
+
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
